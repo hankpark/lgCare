@@ -11,8 +11,7 @@ Support  : **IE9+**
 Yet.
 
 ## Preview
-[Static Site](https://www.naver.com)   
-[[View Image]]   
+[Static Site](https://hankpark.github.io/lgCare/)
 
 ## Used Skill
 
