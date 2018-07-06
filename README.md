@@ -24,7 +24,7 @@ Yet.
 
 ## Info
 
-[GitHub](https://github.com/hankpark/lgCare/commit/05816e785e6e7157012d320da0b634ece0b5a809)   
+[GitHub](https://github.com/hankpark/)   
 
 ## Commit
 
